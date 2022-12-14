@@ -33,3 +33,8 @@ Input variables:
 
 Output variable (desired target):
 * 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
+
+
+![Marital Status](images/marital_status-product-subscription.png)
+
+![Education](images/Education-product-subscription.png)
